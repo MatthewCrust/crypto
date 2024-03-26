@@ -1,0 +1,22 @@
+#priceNum{
+    font-size: x-large;
+    font-weight: bold;
+}
+#moveNum{
+    font-size: x-large;
+}
+.positive {
+    color: green;
+}
+  .negative {
+    color: red;
+}
+.cardBox{
+    border: solid 3px #262626;
+    border-radius: 15px;
+    width: 630px;
+    background-color: #262626;
+    color: white;
+    
+}
+  
